@@ -17,3 +17,6 @@ I thought this repository is a must have repository, to read the Articles relate
 
 #TECHNOLOGY
 1. 
+
+#NON TECHNICAL Articles
+1. https://www.linkedin.com/pulse/35-amazing-examples-how-blockchain-changing-our-world-bernard-marr/
