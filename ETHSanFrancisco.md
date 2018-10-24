@@ -9,8 +9,7 @@ I WILL LOVE TO WRITE HERE ABOUT SOME OF THE COOL THINGS THAT WILL COME ACCROSS.
 
 
 # IMPORTANT LINKS
-- *SUBMISSION:* https://ethsanfrancisco.devfolio.co/submissions
-- *PRIZES:* https://ethsanfrancisco.devfolio.co/#prizes
+- *SUBMISSION:* https://ethsanfrancisco.devpost.com/submissions
 
 
 

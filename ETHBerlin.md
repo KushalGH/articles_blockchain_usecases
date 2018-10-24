@@ -1,5 +1,4 @@
 # ETHBerlin
 
 # IMPORTANT LINKS
-- *SUBMISSION:* https://ethberlin.devfolio.co/submissions
-- *PRIZES:* https://ethberlin.devfolio.co/#prizes
+- *SUBMISSION:* https://ethberlin.devpost.com/submissions
